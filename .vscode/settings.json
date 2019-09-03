@@ -1,7 +1,24 @@
 {
     "files.associations": {
+        "*.html": "html",
         "new": "cpp",
         "stdexcept": "cpp",
-        "system_error": "cpp"
+        "system_error": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "atomic": "cpp",
+        "cwchar": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "streambuf": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "array": "cpp",
+        "string_view": "cpp"
     }
 }
